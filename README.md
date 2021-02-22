@@ -1,15 +1,12 @@
 <!--
 GabriOliv/GabriOliv `README.md`
-- 👋 Hi, I’m @GabriOliv
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 - 👀 - 🌱 - 💞️ - 📫 - 💡 - ⚡️ - 🛠️ - 📦 - 🔩 - 🔑
 -->
 
-#### 📼 GitHub Profile [Startpage](https://gabrioliv.github.io/)
+#### 💡 GitHub Profile [Startpage](https://gabrioliv.github.io/)
 #### 🧭 More [About Me](https://www.notion.so/Gabriel-O-Laureano-ead360eb41f14fb080f0f253e193d712)
 #### 💾 Some Repositories:
+- [🔗Assembly](https://github.com/search?q=user%3AGabriOliv+Assembly&type=repositories)
 - [🔗C](https://github.com/search?l=C&q=user%3AGabriOliv+c&type=Repositories)
 - [🔗C++](https://github.com/search?q=user%3AGabriOliv+cpp&type=repositories)
 - [🔗Java (NetBeans)](https://github.com/search?q=user%3AGabriOliv+java&type=repositories)
