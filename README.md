@@ -9,7 +9,7 @@ GabriOliv/GabriOliv `README.md`
 - [🔗Assembly](https://github.com/search?q=user%3AGabriOliv+Assembly&type=repositories)
 - [🔗C](https://github.com/search?l=C&q=user%3AGabriOliv+c&type=Repositories)
 - [🔗C++](https://github.com/search?q=user%3AGabriOliv+cpp&type=repositories)
-- [🔗Java (NetBeans)](https://github.com/search?q=user%3AGabriOliv+java&type=repositories)
+- [🔗Java (NetBeans)](https://github.com/search?q=user%3AGabriOliv+netbeans&type=repositories)
 - [🔗JavaScript](https://github.com/search?q=user%3AGabriOliv+javascript&type=repositories)
 - [🔗Octave/Matlab](https://github.com/search?q=user%3AGabriOliv+octave&type=repositories)
 - [🔗Python](https://github.com/search?q=user%3AGabriOliv+python&type=repositories)
