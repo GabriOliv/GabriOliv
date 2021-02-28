@@ -1,11 +1,15 @@
 <!--
 GabriOliv/GabriOliv `README.md`
-👋 - 👀 - 🌱 - 💞️ - 📫 - 💡 - ⚡️ - 🛠️ - 📦 - 🔩 - 🔑
+👋 - 👀 - 🌱 - 💞️ - 📫 - 💡 - ⚡️ - 🛠️ - 📦 - 🔩 - 🔑 ajkksdsdsasd
 -->
 
-#### 💡 GitHub Profile [Startpage](https://gabrioliv.github.io/)
-#### 🧭 More [About Me](https://www.notion.so/Gabriel-O-Laureano-ead360eb41f14fb080f0f253e193d712)
-#### 💾 Some Repositories:
+##### 💡 GitHub Profile [Startpage](https://gabrioliv.github.io/)
+
+##### ⚡ Gists [Page](https://gist.github.com/GabriOliv)
+
+##### 🧭 More [About Me](https://www.notion.so/Gabriel-O-Laureano-ead360eb41f14fb080f0f253e193d712)
+
+##### 💾 Some Repositories:
 - [🔗Assembly](https://github.com/search?q=user%3AGabriOliv+Assembly&type=repositories)
 - [🔗C](https://github.com/search?l=C&q=user%3AGabriOliv+c&type=Repositories)
 - [🔗C++](https://github.com/search?q=user%3AGabriOliv+cpp&type=repositories)
