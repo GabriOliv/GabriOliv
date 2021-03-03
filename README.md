@@ -5,10 +5,12 @@ GabriOliv/GabriOliv `README.md`
 ---
 
 <h3 align="center">
-    <a href="https://github.com/GabriOliv">💡 GitHub</a> | 
-    <a href="https://gist.github.com/GabriOliv">⚡ Gists</a> | 
-    <a href="https://www.linkedin.com/in/gabriel-o-laureano-77569a208/">👔 Linkedin</a> | 
-    <a href="https://www.notion.so/Notion-Hub-02850475d48f43a9aaad00029b4d1693">💾 Notion Pages</a>
+    <code>
+        <a href="https://github.com/GabriOliv">💡 GitHub</a> | 
+        <a href="https://gist.github.com/GabriOliv">⚡ Gists</a> | 
+        <a href="https://www.linkedin.com/in/gabriel-o-laureano-77569a208/">👔 Linkedin</a> | 
+        <a href="https://www.notion.so/Notion-Hub-02850475d48f43a9aaad00029b4d1693">📖 Notion</a>
+    </code>
 </h3>
 
 ---
