@@ -15,8 +15,7 @@ GabriOliv/GabriOliv `README.md`
 
 ---
 
-#### 🔗 GitHub Profile [Startpage](https://gabrioliv.github.io/)
-##### Using [GitHub Pages](https://pages.github.com/)
+### 🔗 GitHub Profile [Startpage](https://gabrioliv.github.io/)
 
 ---
 
