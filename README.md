@@ -15,9 +15,7 @@ GabriOliv/GabriOliv `README.md`
 
 ---
 
-### 🔗 GitHub Profile [Startpage](https://gabrioliv.github.io/)
-
----
+#### 📃 GitHub Profile [Startpage](https://gabrioliv.github.io/)
 
 #### ⭐️ Some Repositories:
 - [🔍 Assembly](https://github.com/search?q=user%3AGabriOliv+Assembly&type=repositories)
