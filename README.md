@@ -31,7 +31,7 @@
 ---
 
 #### 💊 Some Gists:
-- [🔗 Python Script - Clone All Repos](https://gist.github.com/GabriOliv/287a3166a0ca5ad92b4199ddce611adc)
+- [🔗 Python Script - Clone Repos n Gists](https://gist.github.com/GabriOliv/287a3166a0ca5ad92b4199ddce611adc)
 - [🔗 Assembly Syscall x86 Linux](https://gist.github.com/GabriOliv/a9411fa771a1e5d94105cb05cbaebd21)
 - [🔗 Shields with Custom Logo](https://gist.github.com/GabriOliv/5d98d76bd5edb5d4f774b8fd0e494823)
 
