@@ -18,15 +18,16 @@
 ---
 
 #### ⭐️ Some Repositories:
-- [🔍 Assembly](https://github.com/search?q=user%3AGabriOliv+Assembly&type=repositories)
-- [🔍 C](https://github.com/search?l=C&q=user%3AGabriOliv+c&type=Repositories)
-- [🔍 C++](https://github.com/search?q=user%3AGabriOliv+cpp&type=repositories)
-- [🔍 Java (NetBeans)](https://github.com/search?q=user%3AGabriOliv+netbeans&type=repositories)
-- [🔍 JavaScript](https://github.com/search?q=user%3AGabriOliv+javascript&type=repositories)
-- [🔍 Octave/Matlab](https://github.com/search?q=user%3AGabriOliv+octave&type=repositories)
-- [🔍 Python](https://github.com/search?q=user%3AGabriOliv+python&type=repositories)
-- [🔍 Ruby](https://github.com/search?q=user%3AGabriOliv+ruby&type=repositories)
-- [🔖 Forks](https://github.com/GabriOliv?tab=repositories&q=&type=fork&language=)
+- [🔍 Assembly](https://github.com/search?l=Assembly&q=user%3AGabriOliv&type=Repositories)
+- [🔍 C](https://github.com/search?l=C&q=user%3AGabriOliv&type=Repositories)
+- [🔍 C++](https://github.com/search?l=C%2B%2B&q=user%3AGabriOliv&type=Repositories)
+- [🔍 GO Lang](https://github.com/search?l=go&q=user%3AGabriOliv&type=Repositories)
+- [🔍 Java (NetBeans)](https://github.com/search?l=Java&q=user%3AGabriOliv&type=Repositories)
+- [🔍 JavaScript](https://github.com/search?l=JavaScript&q=user%3AGabriOliv&type=Repositories)
+- [🔍 Octave/Matlab](https://github.com/search?l=MATLAB&q=user%3AGabriOliv&type=Repositories)
+- [🔍 Python](https://github.com/search?l=Python&q=user%3AGabriOliv&type=Repositories)
+- [🔍 Ruby](https://github.com/search?l=Ruby&q=user%3AGabriOliv&type=Repositories)
+- [🔖 Forks](https://github.com/GabriOliv?tab=repositories&type=fork)
 
 ---
 
