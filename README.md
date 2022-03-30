@@ -9,7 +9,7 @@
 		<img src="images/shield_gists.svg"/></a>
 	<a href="https://www.notion.so/Notion-Hub-02850475d48f43a9aaad00029b4d1693" alt="Notion">
 		<img src="images/shield_notion.svg"/></a>
-	<a href="https://www.linkedin.com/in/gabriel-o-laureano-77569a208" alt="Linkedin">
+	<a href="linkedin.com/in/gabriel-o-77569a208/" alt="Linkedin">
 		<img src="images/shield_linkedin.svg"/></a>
 	<a href="https://gabrioliv.github.io/" alt="Homepage">
 		<img src="images/shield_homepage.svg"/></a>
