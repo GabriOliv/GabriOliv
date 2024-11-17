@@ -44,6 +44,4 @@
 #### 📂 GitHub Pages:
 
 - [📄 Digital Garden (pt-br)](https://gabrioliv.github.io/garden/)
-- [📄 StartPage](https://gabrioliv.github.io/startpage/)
-- [📄 Repository List](https://gabrioliv.github.io/repository-list/)
 - [📄 Password Generator](https://gabrioliv.github.io/wordgenerator/)
