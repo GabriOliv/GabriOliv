@@ -17,11 +17,11 @@
 
 ---
 
-#### ⭐️ Some Repositories:
+#### ⭐️ Repositories by Language:
 
 - [🔍 Assembly](https://github.com/search?l=Assembly&q=user%3AGabriOliv&type=Repositories)
-- [🔍 C](https://github.com/search?l=C&q=user%3AGabriOliv&type=Repositories)
-- [🔍 C++](https://github.com/search?l=C%2B%2B&q=user%3AGabriOliv&type=Repositories)
+- [🔍 C](https://github.com/search?l=C&q=user%3AGabriOliv&type=Repositories) / [🔍 C++](https://github.com/search?l=C%2B%2B&q=user%3AGabriOliv&type=Repositories)
+- [🔍 Crystal](https://github.com/search?l=Crystal&q=user%3AGabriOliv&type=Repositories)
 - [🔍 GO Lang](https://github.com/search?l=go&q=user%3AGabriOliv&type=Repositories)
 - [🔍 Java (NetBeans)](https://github.com/search?l=Java&q=user%3AGabriOliv&type=Repositories)
 - [🔍 JavaScript](https://github.com/search?l=JavaScript&q=user%3AGabriOliv&type=Repositories)
