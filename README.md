@@ -19,16 +19,16 @@
 
 #### ⭐️ Repositories by Language:
 
-- [🔍 Assembly](https://github.com/search?l=Assembly&q=user%3AGabriOliv&type=Repositories)
-- [🔍 C](https://github.com/search?l=C&q=user%3AGabriOliv&type=Repositories) / [🔍 C++](https://github.com/search?l=C%2B%2B&q=user%3AGabriOliv&type=Repositories)
-- [🔍 Crystal](https://github.com/search?l=Crystal&q=user%3AGabriOliv&type=Repositories)
-- [🔍 GO Lang](https://github.com/search?l=go&q=user%3AGabriOliv&type=Repositories)
-- [🔍 Java (NetBeans)](https://github.com/search?l=Java&q=user%3AGabriOliv&type=Repositories)
-- [🔍 JavaScript](https://github.com/search?l=JavaScript&q=user%3AGabriOliv&type=Repositories)
-- [🔍 Octave/Matlab](https://github.com/search?l=MATLAB&q=user%3AGabriOliv&type=Repositories)
-- [🔍 Python](https://github.com/search?l=Python&q=user%3AGabriOliv&type=Repositories)
-- [🔍 Ruby](https://github.com/search?l=Ruby&q=user%3AGabriOliv&type=Repositories)
-- [🔖 Forks](https://github.com/GabriOliv?tab=repositories&type=fork)
+[![Assembly](https://img.shields.io/badge/Assembly-blue?style=flat-square&labelColor=black&color=lightgrey&logo=searxng&logoColor=fff)](https://github.com/search?l=Assembly&q=user%3AGabriOliv&type=Repositories) 
+[![C](https://img.shields.io/badge/C-blue?style=flat-square&labelColor=black&color=00599C&logo=searxng&logoColor=fff)](https://github.com/search?l=C&q=user%3AGabriOliv&type=Repositories) 
+[![C++](https://img.shields.io/badge/C++-blue?style=flat-square&labelColor=black&color=00599C&logo=searxng&logoColor=fff)](https://github.com/search?l=C%2B%2B&q=user%3AGabriOliv&type=Repositories) 
+[![Python](https://img.shields.io/badge/Python-blue?style=flat-square&labelColor=black&color=3776AB&logo=searxng&logoColor=fff)](https://github.com/search?l=Python&q=user%3AGabriOliv&type=Repositories) 
+[![Ruby](https://img.shields.io/badge/Ruby-blue?style=flat-square&labelColor=black&color=CC342D&logo=searxng&logoColor=fff)](https://github.com/search?l=Ruby&q=user%3AGabriOliv&type=Repositories) 
+[![JavaScript](https://img.shields.io/badge/JavaScript-blue?style=flat-square&labelColor=black&color=F7DF1E&logo=searxng&logoColor=fff)](https://github.com/search?l=JavaScript&q=user%3AGabriOliv&type=Repositories) 
+[![Crystal](https://img.shields.io/badge/Crystal-blue?style=flat-square&labelColor=black&color=grey&logo=searxng&logoColor=fff)](https://github.com/search?l=Crystal&q=user%3AGabriOliv&type=Repositories) 
+[![GO Lang](https://img.shields.io/badge/GO_Lang-blue?style=flat-square&labelColor=black&color=00ADD8&logo=searxng&logoColor=fff)](https://github.com/search?l=go&q=user%3AGabriOliv&type=Repositories) 
+[![Octave/Matlab](https://img.shields.io/badge/Octave/Matlab-blue?style=flat-square&labelColor=black&color=0072BD&logo=searxng&logoColor=fff)](https://github.com/search?l=MATLAB&q=user%3AGabriOliv&type=Repositories) 
+[![🍴 Forks](https://img.shields.io/badge/🍴-Forks-blue?style=flat-square&labelColor=black&color=white)](https://github.com/GabriOliv?tab=repositories&type=fork)
 
 ---
 
