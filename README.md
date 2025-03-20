@@ -7,12 +7,8 @@
 		<img src="images/shield_github.svg"/></a>
 	<a href="https://gist.github.com/GabriOliv" alt="GitHub Gist">
 		<img src="images/shield_gists.svg"/></a>
-	<a href="https://www.notion.so/Notion-Hub-02850475d48f43a9aaad00029b4d1693" alt="Notion">
-		<img src="images/shield_notion.svg"/></a>
-	<a href="https://linkedin.com/in/gabriel-o-77569a208/" alt="Linkedin">
+	<a href="https://linkedin.com/in/gabriel-o-laureano/" alt="Linkedin">
 		<img src="images/shield_linkedin.svg"/></a>
-	<a href="https://gabrioliv.github.io/" alt="Homepage">
-		<img src="images/shield_homepage.svg"/></a>
 </h3>
 
 ---
@@ -37,11 +33,13 @@
 - [🔗 Assembly Syscall x86 Linux](https://gist.github.com/GabriOliv/a9411fa771a1e5d94105cb05cbaebd21)
 - [🔗 List of Dynamic Status for Profile README](https://gist.github.com/GabriOliv/3d1cfdb262b006a4ccf8ca425807df83)
 - [🔗 Shields with Custom Logo](https://gist.github.com/GabriOliv/5d98d76bd5edb5d4f774b8fd0e494823)
-- [🔗 Python Script - Clone Repos n Gists](https://gist.github.com/GabriOliv/287a3166a0ca5ad92b4199ddce611adc)
 
 ---
 
 #### 📂 GitHub Pages:
 
 - [📄 Digital Garden (pt-br)](https://gabrioliv.github.io/garden/)
+- [📄 HomePage](https://gabrioliv.github.io/)
 - [📄 Password Generator](https://gabrioliv.github.io/wordgenerator/)
+
+---
